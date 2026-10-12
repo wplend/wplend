@@ -8,5 +8,5 @@ Every archive is checked automatically after upload — ClamAV scan, PHP syntax 
 
 **Links**
 - 🌐 [wplend.net](https://wplend.net)
-- 📋 [Review methodology](https://wplend.net/review-methodology/)
+- 📋 [Review methodology](https://wplend.net/wordpress-plugin-theme-review-methodology/)
 - ✈️ [Update alerts on Telegram](https://t.me/wplend)
