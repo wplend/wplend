@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, this is the WPlend team 👋
 
 <!--
 **wplend/wplend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
