@@ -7,6 +7,6 @@ Every archive is checked automatically after upload — ClamAV scan, PHP syntax 
 - [wp-zip-check](https://github.com/wplend/wp-zip-check) — check a WordPress plugin or theme ZIP before you install it
 
 **Links**
-- 🌐 [wplend.net](https://wplend.net)
-- 📋 [Review methodology](https://wplend.net/wordpress-plugin-theme-review-methodology/)
+- 🌐 [wplend.net](https://luxwp.com/)
+- 📋 [Review methodology](https://luxwp.com/faq/)
 - ✈️ [Update alerts on Telegram](https://t.me/wplend)
